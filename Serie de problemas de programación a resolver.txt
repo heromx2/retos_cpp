@@ -1,0 +1,19 @@
+Detectar si un string es palindromo
+hacer el algorítmo de la multiplicación de dos números
+numeros primos
+en una sola iteración devolver el mayor y el menor de una un array de numeros
+crear una función que copie todas las propuedades y sus valores de un objeto en otro
+
+Crea un programa que tenga un arreglo con nombres completos de personas. Además, debe permitir realizar una búsqueda por el nombre de la persona
+
+Calculadora de IMC peso kg / (estatura en metros)al cuadrado
+Mayor a 30 --> Obesidad
+Entre 25 y 30 sobrepeso
+Entre 18.5 y 25 normal
+menor a 18.6 debajo de lo normal
+
+-
+Crear un autocompletado tipo google
+
+
+--
